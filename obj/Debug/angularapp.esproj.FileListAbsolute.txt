@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\BBingo\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BBingo\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache
