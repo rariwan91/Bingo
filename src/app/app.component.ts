@@ -108,7 +108,11 @@ export class AppComponent {
     "Such slander!",
     "Talks about food",
     "Tortilla",
-    "Voice changer suddenly turns on"
+    "Voice changer suddenly turns on",
+    "WOOOOOOT",
+    "NOOOOOO",
+    "I 'accidentally' killed them",
+    "It's not like I meant to kill them, baka!"
     //"I like [insert weird food]",
   ];
 }
