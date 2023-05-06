@@ -112,7 +112,8 @@ export class AppComponent {
     "WOOOOOOT",
     "NOOOOOO",
     "I 'accidentally' killed them",
-    "It's not like I meant to kill them, baka!"
+    "It's not like I meant to kill them, baka!",
+    "Mentions Honkai Star Rail Randomly"
     //"I like [insert weird food]",
   ];
 }
